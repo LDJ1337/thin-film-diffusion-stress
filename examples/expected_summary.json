@@ -1,0 +1,24 @@
+{
+  "scope": "Synthetic coursework model; not measured film properties or failure prediction",
+  "nx": 441,
+  "max_dt_s": 2.0,
+  "t_end_s": 2000.0,
+  "saved_times": 122,
+  "concentration_min": 0.0,
+  "concentration_max": 1.0,
+  "peak_G_J_m2": 0.2936256011657534,
+  "peak_sample_time_s": 5.0,
+  "final_G_J_m2": 1.634432739061492e-13,
+  "final_max_abs_stress_Pa": 559.8240349713853,
+  "parameters": {
+    "substrate_thickness_m": 2e-05,
+    "film_thickness_m": 2e-06,
+    "substrate_E_Pa": 200000000000.0,
+    "film_E_Pa": 100000000000.0,
+    "substrate_poisson": 0.3,
+    "film_poisson": 0.3,
+    "substrate_D_m2_s": 1e-12,
+    "film_D_m2_s": 1e-10,
+    "beta": 0.002
+  }
+}
